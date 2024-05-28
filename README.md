@@ -1,3 +1,3 @@
-#SOC Warm-up Task
+# SOC Warm-up Task
 
 Recreating AirBnB's home page (mobile version)
