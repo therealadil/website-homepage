@@ -1,6 +1,6 @@
-#SOC Warm-up Task
+#SOC Warm-up task
 
-Recreating Airbnb's home page (mobile version)
+Recreating Airbnb's home page (mobile version) 
 
 --
 
