@@ -1,4 +1,4 @@
-# Pre-bootcamp Warm-up!
+# Pre-bootcamp Warm-up
 
 Hello and congratulations on making it onto the School of Code 🙂🎉 You should be super proud of yourselves. You’ve learned so much in the pre-course and this task is all about keeping those skills sharp before you join. This is not an easy task but we know you can do it.
 
