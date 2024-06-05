@@ -64,6 +64,8 @@ html {
   height: 74px;
   background-color: orange;
   display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
 
 .nav-item {
@@ -71,4 +73,5 @@ html {
   height: 44px;  border: 5px black solid; 
   background-color: white;
   box-sizing: border-box;
+
 }
