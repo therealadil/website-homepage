@@ -62,10 +62,17 @@ html {
 .nav-bar {
   width: 100%;
   height: 74px;
-  background-color: orange;
+  background-color: white;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
+}
+
+.nav-bar a:link {
+  font-size: 12px;
+  display: block;
+  text-decoration: none;
+  color: #6a6a6a
 }
 
 .nav-item {
@@ -75,3 +82,9 @@ html {
   box-sizing: border-box;
 
 }
+
+.nav-item img {
+opacity: 0.6742081447963801;
+
+}
+
