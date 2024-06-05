@@ -7,7 +7,12 @@ html {
     width: 375px;
     margin: 0 auto;
     text-align: center;
-    
+    font-family: airbnbfont;
+  }
+
+  @font-face {
+    font-family: airbnbfont;
+    src: url('assets/brown-regular.otf') format('opentype');
   }
 
 header {
