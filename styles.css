@@ -45,6 +45,8 @@ html {
     padding-right: 19px;
 }
 
+
+
 .search-box-placeholder {
     text-align: left;
     font-size: 14px;
@@ -87,5 +89,11 @@ html {
 .nav-item img {
 opacity: 0.6742081447963801;
 
+}
+
+.search-box-placeholder .bullet1 {
+  color: red; 
+  font-size: 1px; 
+  vertical-align: middle;
 }
 
