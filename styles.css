@@ -107,5 +107,7 @@ opacity: 0.6742081447963801;
 .child {
   height: 362px;
   width: 88.1%;
-  overflow: hidden;
+  overflow: hidden;  
+  display: flex;
+  /* justify-content: center; */
 }
