@@ -97,5 +97,6 @@ opacity: 0.6742081447963801;
   vertical-align: middle;
 }
 
-.child {
+.container {
+  width: 430px;
 }
