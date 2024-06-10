@@ -109,5 +109,5 @@ opacity: 0.6742081447963801;
   width: 88.1%;
   overflow: hidden;  
   display: flex;
-  /* justify-content: center; */
+  justify-content: center;
 }
