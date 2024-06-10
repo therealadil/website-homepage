@@ -23,6 +23,7 @@ html {
     align-items: center;
     justify-content: start;
     padding-top: 15px;
+    margin-bottom: 23px;
     }
 
 
@@ -115,9 +116,14 @@ opacity: 0.6742081447963801;
 
 .item-description {
   margin-right: auto; 
-  margin-left: 5.95%;
+  margin-left: 5.9%;
   text-align: left;
-  margin-bottom: 17px;
+  margin-bottom: 37px;
   line-height: 0.5;
+  font-size: 15px;
 }
 
+.item-description-heading {
+  font-size: 16px;
+  color: #2a2a2a;
+}
