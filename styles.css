@@ -110,6 +110,7 @@ opacity: 0.6742081447963801;
   overflow: hidden;  
   display: flex;
   justify-content: center;
+  border-radius: 15px;
 }
 
 .item-description {
@@ -117,4 +118,6 @@ opacity: 0.6742081447963801;
   margin-left: 5.95%;
   text-align: left;
   margin-bottom: 17px;
+  line-height: 0.5;
 }
+
