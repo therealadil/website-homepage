@@ -186,3 +186,10 @@ hr {
 .language-currency span {
   padding-right: 20px;
 }
+
+.navigation-links-bottom {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
