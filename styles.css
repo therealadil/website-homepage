@@ -40,7 +40,7 @@ html {
 
   }
 
-  .fa-magnifying-glass {
+  .search-box .fa-magnifying-glass {
     font-size: 1.25rem; 
     color: #222222;
     padding-right: 19px;
@@ -218,7 +218,22 @@ hr {
   bottom: 0;
   width: 100%;
   text-align: center;
-  background-color: pink;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  background-color: white;
+  display: flex;
+  justify-content: center ;
+  padding-top: 15px;
+  gap: 50px;
+  font-size: 10px;
+  color: #6a6a6a;
+  text-align: center;
+  align-items: center;
+}
+
+
+.sticky-bar i {
+  font-size: 20px;
+}
+
+.explore {
+  color: #e81948
 }
