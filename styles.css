@@ -176,3 +176,12 @@ hr {
   margin-top: 25px;
   margin-bottom: 25px;
 }
+
+.language-currency {
+  margin-top: 20px;
+}
+
+
+.language-currency span {
+  padding-right: 20px;
+}
