@@ -98,6 +98,7 @@ opacity: 0.6742081447963801;
   vertical-align: middle;
 }
 
+
 .container {
   display: flex;
   flex-direction: column;
@@ -189,7 +190,14 @@ hr {
 
 .navigation-links-bottom {
   margin-top: 10px;
+  margin-bottom: 100px;
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
+  align-items: center;
+}
+
+
+.navigation-links-bottom .bullet {
+  font-size: 5px; 
 }
