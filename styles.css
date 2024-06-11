@@ -140,7 +140,14 @@ opacity: 0.6742081447963801;
 footer {
   background-color: #f7f7f7;
   text-align: left;
+  font-size: 14px;
 
+
+}
+
+.footer-section {
+  margin-left: 5.9%;
+  margin-right: 5.9%;
 
 }
 
@@ -149,8 +156,7 @@ footer {
   display: flex;
   align-items: center;
   gap: 75px;
-  margin-left: 5.9%;
-  margin-right: 5.9%;
+
 
 }
 
@@ -161,10 +167,10 @@ footer {
 }
 
 hr {
-  border: 1px solid #dddddd;
+  border: 10px solid red;
 }
 
 
 .link-tree {
-  line-height: 0.6;
+  line-height: 1;
 }
